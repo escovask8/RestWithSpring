@@ -1,5 +1,4 @@
-RestWithSpring: Construindo APIs RESTful com Spring Boot 🍃
-Este repositório é um guia prático para o desenvolvimento de APIs RESTful utilizando o ecossistema Spring Boot. Através de exemplos concisos e bem estruturados, você aprenderá os conceitos fundamentais e as melhores práticas para criar serviços web robustos e escaláveis.
+🍃Este repositório é um guia prático para o desenvolvimento de APIs RESTful utilizando o ecossistema Spring Boot. Através de exemplos concisos e bem estruturados, você aprenderá os conceitos fundamentais e as melhores práticas para criar serviços web robustos e escaláveis.
 
 Conteúdo 📚
 O projeto abrange os seguintes tópicos:
